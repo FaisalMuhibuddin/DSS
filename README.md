@@ -1,4 +1,4 @@
-# sistem pendukung keputusan Deteksi dini penyakit kardiovaskular melalui analisi tingkat stress berbasis machine learning
+# Sistem Pendukung Keputusan Deteksi Dini Penyakit Kardiovaskular Melalui Analisi Tingkat Stress Berbasis Machine Learning
 [Faisal Muhibuddin - 23066020010.pptx](https://github.com/user-attachments/files/18233407/Faisal.Muhibuddin.-.23066020010.pptx)
 
 [Draft Laporan Faisal Muhibuddin-23066020010.docx](https://github.com/user-attachments/files/18233406/Draft.Laporan.Faisal.Muhibuddin-23066020010.docx)
